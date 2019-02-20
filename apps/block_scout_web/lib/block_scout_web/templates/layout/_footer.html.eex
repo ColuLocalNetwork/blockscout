@@ -17,7 +17,7 @@
           <a href="https://www.twitter.com/ColuNetwork/" rel="noreferrer" target="_blank" class="icon-link" data-toggle="tooltip" data-placement="top" title="<%= gettext("Twitter") %>">
             <i class="fab fa-twitter"></i>
           </a>
-          <a href="http://t.me/oraclesnetwork" rel="noreferrer" target="_blank" class="icon-link" data-toggle="tooltip" data-placement="top" title="<%= gettext("Telegram") %>">
+          <a href="https://t.me/joinchat/Gcrd9Q_E_rgGEjDqmn9Gtg" rel="noreferrer" target="_blank" class="icon-link" data-toggle="tooltip" data-placement="top" title="<%= gettext("Telegram") %>">
             <i class="fab fa-telegram-plane"></i>
           </a>
         </div>
