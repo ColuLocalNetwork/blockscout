@@ -1,4 +1,4 @@
-#, elixir-format
+﻿#, elixir-format
 #: lib/block_scout_web/views/address_token_balance_view.ex:7
 msgid "%{count} token"
 msgid_plural "%{count} tokens"
@@ -395,7 +395,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:104
 #: lib/block_scout_web/views/wei_helpers.ex:72
 msgid "Ether"
-msgstr "POA"
+msgstr "CLN"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:163
