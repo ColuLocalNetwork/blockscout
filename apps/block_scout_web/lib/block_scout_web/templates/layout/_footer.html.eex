@@ -33,7 +33,7 @@
     <% other_explorers = other_explorers() %>
 
     <% col_size = if Enum.empty?(other_explorers), do: 4, else: 3 %>
-
+<!--
     <div class="row">
       <div class="col-md-<%= col_size %> footer-list">
         <h3>BlockScout</h3>
@@ -94,5 +94,6 @@
         <%= gettext("Version") %>: <%= version %>
       </div>
     <% end %>
+    -->
   </div>
 </footer>
