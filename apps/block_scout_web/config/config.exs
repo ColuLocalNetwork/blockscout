@@ -15,6 +15,7 @@ config :block_scout_web, BlockScoutWeb.Chain,
   subnetwork: "", #System.get_env("SUBNETWORK"),
   network_icon: System.get_env("NETWORK_ICON"),
   logo: "/images/fuse.jpg" #System.get_env("LOGO")
+  coin: "CLN"
 
 config :block_scout_web,
   link_to_other_explorers: System.get_env("LINK_TO_OTHER_EXPLORERS") == "true",
