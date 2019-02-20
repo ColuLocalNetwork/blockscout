@@ -14,7 +14,7 @@ config :block_scout_web, BlockScoutWeb.Chain,
   network: "FuseNetwork",  #System.get_env("NETWORK"),
   subnetwork: "", #System.get_env("SUBNETWORK"),
   network_icon: System.get_env("NETWORK_ICON"),
-  logo: "/images/fuse.jpg" #System.get_env("LOGO")
+  logo: "/images/fuse.jpg" #System.get_env("LOGO"),
   coin: "CLN"
 
 config :block_scout_web,
